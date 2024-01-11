@@ -1,0 +1,11 @@
+[package]
+name = "class-files"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.76"
+bitflags = "2.4.1"
+cesu8 = "1.1.0"
